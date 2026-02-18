@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Chop Suey!",
+  "base_artist": "System Of A Down",
+  "createdAt": "2026-02-18T15:33:10.417520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chop Suey",
+      "artist": "Busy P",
+      "has_synced": false,
+      "path": "select/01_Chop_Suey_Busy_P.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chop Suey!",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/02_Chop_Suey!_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chop Suey",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/03_Chop_Suey_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chop Suey!",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/04_Chop_Suey!_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chop Suey!",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/05_Chop_Suey!_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chop Suey! - Live Version",
+      "artist": "System of a Down",
+      "has_synced": false,
+      "path": "select/06_Chop_Suey!_-_Live_Version_System_of_a_Down.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chop Suey (alternate version)",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/07_Chop_Suey_(alternate_version)_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thumbing My Way (Chop Suey, Seattle, WA 9/6/2002)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/08_Thumbing_My_Way_(Chop_Suey,_Seattle,_WA_9_6_2002)_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thumbing My Way (Chop Suey - Seattle, WA 9\u00006\u00002002)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/09_Thumbing_My_Way_(Chop_Suey_-_Seattle,_WA_9\u00006\u00002002)_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chop Suey (System Of A Down на русском)",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/10_Chop_Suey_(System_Of_A_Down_на_русском)_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chop Suey",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/11_Chop_Suey_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chop Suey!",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/12_Chop_Suey!_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chop Suey!",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/13_Chop_Suey!_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chop Suey (Live In Boulder)",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/14_Chop_Suey_(Live_In_Boulder)_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chop Suey",
+      "artist": "Richard Cheese",
+      "has_synced": true,
+      "path": "select/15_Chop_Suey_Richard_Cheese.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thumbing My Way (Chop Suey, Seattle 9-6-02)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/16_Thumbing_My_Way_(Chop_Suey,_Seattle_9-6-02)_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chop Suey!",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/17_Chop_Suey!_System_of_a_Down.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chop Suey!",
+      "artist": "System Of A Down",
+      "has_synced": false,
+      "path": "select/pl_01_Chop_Suey!_System_Of_A_Down.txt"
+    }
+  ]
+}
